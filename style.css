@@ -1,0 +1,17 @@
+.circle {
+  display: inline-block;
+  height:10px;
+  width: 10px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+
+.col-md-2{
+background-color: aqua;
+}
+
+
+#Map {
+  height: 700px;
+}
